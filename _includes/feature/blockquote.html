@@ -1,0 +1,21 @@
+{% comment %}
+
+    Bootstrap blockquote info: https://getbootstrap.com/docs/4.0/content/typography/
+
+    E.G. --> {% include feature/blockquote.html text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante." author="Someone famous" source="Source Title" %}
+
+    Options:
+    - "text" = main text
+    - "author" = author
+    - "citation" = citation
+
+{%- endcomment -%}
+
+<hr>
+
+<blockquote class="blockquote text-center">
+  <p class="mb-2">{{include.text}}</p>
+  <footer class="blockquote-footer">{{include.author}} {% if include.citation %} in <cite title="{{include.citation}}">{{include.citation}}</cite> {% endif %}</footer>
+</blockquote>
+
+<hr>
