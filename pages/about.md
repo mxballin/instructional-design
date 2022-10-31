@@ -13,7 +13,7 @@ credits: true
     <li class="breadcrumb-item active" aria-current="page">About</li>
   </ol>
 </nav>
-{% include feature/nav-menu.html sections="Land Acknowledgement;About the Research Team;Acknowledgements;Technical Credits" %}
+{% include feature/nav-menu.html sections="Land Acknowledgement;About the Site Owner;About the Site;Technical Credits" %}
 
 ## Land Acknowledgement
 
@@ -24,6 +24,6 @@ I am incredibly grateful to be nutured by the lands of the Ramaytush and Tamyen 
 <h6>Mya Ballin</h6>
 Mya Ballin is a recent graduate of the University of British Columbia, where she received a Masters of Library and Information Science and a Masters of Archival Studies. 
 
-## About the site
+## About the Site
 
 This site was created as part of an assignment for the OSU course AHE 522.
