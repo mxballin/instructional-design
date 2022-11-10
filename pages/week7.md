@@ -13,9 +13,8 @@ permalink: /week7.html
 #### Question 1:
 ##### How might you use a digital portfolio? What purpose do you want it to serve?
 
-A digital portfolio is something that can be shared along with a resume and cover letter as a way of demonstrating competencies related to a particular concept or task.
-It offers a space where you can show projects that you have worked on rather than just describing them verbally.
-I would like my portfolio to serve as a space where I can document my journey through the ID certificate and to act as a tool I can use in the future to complement my CV.
+ <p class="py-2" style="width=75ch;">
+A digital portfolio is something that can be shared along with a resume and cover letter as a way of demonstrating competencies related to a particular concept or task. It offers a space where you can show projects that you have worked on rather than just describing them verbally. I would like my portfolio to serve as a space where I can document my journey through the ID certificate and to act as a tool I can use in the future to complement my CV. </p>
 
 
 
