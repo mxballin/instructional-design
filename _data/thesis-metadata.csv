@@ -1,6 +1,6 @@
 objectid,filename,youtubeid,vimeoid,transcriptlink,title,creator,date,description,province,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,citation
-research001,oral_consent.pdf,,,,Oral Consent Form,Mya Ballin,,,,,,,,application/pdf,,,,,
-research002,written_consent.pdf,,,,Written Consent Form,Mya Ballin,,,,,,,,application/pdf,,,,,
+research001,oral_consent.pdf,,,,Oral Consent Form,Mya Ballin,,,,,,,,Image;StillImage,application/pdf,,,,
+research002,written_consent.pdf,,,,Written Consent Form,Mya Ballin,,,,,,,,Image;StillImage,application/pdf,,,,
 research003,,,,,,Participant 001,,,"Guangdong, China",23.1317,113.2663,,,,,,,,
 research004,,,,,,Participant 002,,,"Jiangsu, China",32.0607,118.763,,,,,,,,
 research005,,,,,,Participant 003,,,"Sudogwon, Korea",37.4122,126.8681,,,,,,,,
