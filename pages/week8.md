@@ -15,30 +15,34 @@ permalink: /week8.html
 
 # Week 8
 
+{% include feature/nav-menu.html sections="Theme Color Contrast;Research Instrument Design;Instructional Presentations;Extra Curriculars" %}
+
+#### Theme Color Contrast
+
 {% include feature/image.html objectid="research016" alt="A screenshot of a link contrast checker that shows that the link color, body text color, and background color pass WCAG A and WCAG AA contrast checks." caption="The website's color theme passes the WebAIM contrast checker tests. <br> (Screenshot by Mya Ballin of the <a href="https://webaim.org/resources/linkcontrastchecker/?fcolor=0000FF&bcolor=FFFFFF">WebAIM Link Contrast Checker</a>" width="50" %}
             
-# Embed Practice
+## Embed Practice
 {% include feature/nav-menu.html sections="Research Instrument Design; Instructional Presentations; Extra Curriculars" %}
 
 <p>This page contains the required embedded content from the Week 8 assignment. </p>
   
-## Research Instrument Design
+#### Research Instrument Design
  
-#### Project: Master's Thesis
+###### Project: Master's Thesis
  
 Under the supervision of my committee, I designed and used a variety of documents that facilitated my research. What follows is an example of one of these documents, which was approved for use in my research by the UBC Ethics Review Board in November of 2021.
 
 {% include feature/pdf.html objectid="research002" %}
 
-## Instructional Presentations
+#### Instructional Presentations
 
-#### Project: The Joint Secretariat File Name Convention
+###### Project: The Joint Secretariat File Name Convention
 
 As part of a work experience project, I scripted and recorded an instructional video explaining the purpose and importance of a standardized file naming convention. The video includes a demonstration of how to implement the file naming convention that was designed by the records management team for the Joint Secretariat. 
 
 {% include feature/video.html objectid="https://youtu.be/pNLYGhM6KsY"%}
 
-## Extra Curriculars
+#### Extra Curriculars
 
 In addition to the documents that I create for work, I am an avid hobbyist photographer. Below are some examples of the photos that I have taken.
 
