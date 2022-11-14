@@ -33,9 +33,22 @@ permalink: /embeds.html
     </div>
   </div>
   </div>
+  
+ ## Research Instrument Design
+ 
+ #### Project: Master's Thesis
+ 
+Under the supervision of my committee, I designed and used a variety of documents that facilitated my research. What follows is an example of one of these documents, which was approved for use in my research by the UBC Ethics Review Board in November of 2021.
+
 {% include feature/pdf.html objectid="research002" %}
 
-{% include feature/video.html objectid="https://youtu.be/pNLYGhM6KsY" %}
+## Instructional Presentations
+
+#### Project: The Joint Secretariat File Name Convention
+
+As part of a work experience project, I scripted and recorded an instructional video explaining the purpose and importance of a standardized file naming convention. The video includes a demonstration of how to implement the file naming convention that was designed by the records management team for the Joint Secretariat. 
+
+{% include feature/video.html objectid="https://youtu.be/pNLYGhM6KsY"%}
 
 <p style="text-indent: 25px;"> Having the "permission" to do something, but not having the access or means is a recurrent theme throughout the letters. Just as Sumi's family wanted to take more pictures if they could, many of the teens would have preferred to stay in school rather than be in the fields, and many families would have relocated to better living situations had their requests not been denied by the B.C.S.C<sup>1</sup>. Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.</p>
 
