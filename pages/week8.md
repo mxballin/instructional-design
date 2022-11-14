@@ -62,12 +62,17 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
  <div class="row">
     <div class="col-lg-8">
       <div id="carousel-photos" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall.">
             <div class="carousel-caption d-none d-md-block">
     <p>My cat, Peaches, when she was first adopted by my family.</p>
-  </div>
+            </div>
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A small grey and black bird with a yellow head and yellow highlights along its wings sits in a tree with needle-like leaves.">
