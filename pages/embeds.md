@@ -18,19 +18,10 @@ permalink: /embeds.html
 
 
 <p style="text-indent: 25px;">When Japanese Canadians were forcibly displaced, they were also restricted in their ability to gain and distribute information. Access to radios and cameras in particular was severely limited, or often completely denied to forcibly uprooted Nikkei. Order In Council 1486 explicitly permitted the confiscation of short-wave radios and cameras by the RCMP, ostensibly because of concerns that Japanese Canadians would be using these sources of information for the benefit of Japan. It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.</p>
+
 <div class="container">
-    <div class="row">
-        <div class="col-md-6 my-auto">
-            {% include feature/blockquote.html text="Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. ... We have sent for our camera about two weeks ago but it still hasn’t arrived" author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
-            {% include feature/blockquote.html text="Were [sic] still allowed to have a camera yet, but since we haven’t one, we’ll have to borrow someones. We’re intending to take pictures before our cameras get banned, if they ever do." author="Sumi Mototsune" citation="Letter to Joan Gillis, July 31, 1942"%}
-        </div>
-        <div class="col-md-6">
-            {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. It is unknown what specific types of cameras were accessible to our correspondents when they were able to use them." width="100" %}
-        </div>
-    </div>
+            {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s." width="100" %}
 </div>
-
-
 
 <p style="text-indent: 25px;"> Having the "permission" to do something, but not having the access or means is a recurrent theme throughout the letters. Just as Sumi's family wanted to take more pictures if they could, many of the teens would have preferred to stay in school rather than be in the fields, and many families would have relocated to better living situations had their requests not been denied by the B.C.S.C<sup>1</sup>. Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.</p>
 
