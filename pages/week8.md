@@ -17,7 +17,9 @@ permalink: /week8.html
 
 #### Theme Color Contrast
 
-{% include feature/image.html objectid="research016" alt="A screenshot of a link contrast checker that shows that the link color, body text color, and background color pass WCAG A and WCAG AA contrast checks." caption="The website's color theme passes the WebAIM contrast checker tests. <br> (Screenshot by Mya Ballin of the <a href="https://webaim.org/resources/linkcontrastchecker/?fcolor=0000FF&bcolor=FFFFFF">WebAIM Link Contrast Checker</a>" width="50" %}
+{% include feature/image.html objectid="research016" alt="A screenshot of a link contrast checker that shows that the link color, body text color, and background color pass WCAG A and WCAG AA contrast checks." caption="The website's color theme passes the WebAIM contrast checker tests. <br> (Screenshot by Mya Ballin of the WebAIM Link Contrast Checker" width="50" %}
+
+Check your own theme's color contrast using the <a href="https://webaim.org/resources/linkcontrastchecker/?fcolor=0000FF&bcolor=FFFFFF">WebAIM Link Contrast Checker</a>.
             
 ## Embed Practice
 {% include feature/nav-menu.html sections="Research Instrument Design; Instructional Presentations; Extra Curriculars" %}
