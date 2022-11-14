@@ -71,14 +71,20 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
           <div class="carousel-item active">
             <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall.">
             <div class="carousel-caption d-none d-md-block">
-    <p>My cat, Peaches, when she was first adopted by my family.</p>
+    <p>My cat, Peaches, when she was first adopted by my family. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
             </div>
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A small grey and black bird with a yellow head and yellow highlights along its wings sits in a tree with needle-like leaves.">
+            <div class="carousel-caption d-none d-md-block">
+    <p>A golden-crowned kinglet seen in Queen Elizabeth Park in Vancouver, B.C..<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
+            </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_Photographs-3-13-test.jpg" alt="Third slide">
+            <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/9092884/ginger-2_2000_c.jpg" alt="A pile of cookies stamped with floral designs on a white, square plate.">
+            <div class="carousel-caption d-none d-md-block">
+    <p>One of my favourite cookies to bake: Yotam Ottolenghi and Helen Goh's Soft Gingerbread Tiles with Run Butter Glaze<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
+            </div>
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
