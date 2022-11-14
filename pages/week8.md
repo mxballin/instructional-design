@@ -49,7 +49,7 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
 <div class="container">
   <div class="row">
     <div class="col-md-6 my-auto">
-      {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall." caption="My cat, Peaches, when she was first adopted by my family. (Photograph by Mya Ballin, licensed under CC BY 4.0)" width="100" %}
+      {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall." caption="My cat, Peaches, when she was first adopted by my family. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0)" width="100" %}
     </div>
     <div class="col-md-6 my-auto">
     {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A small grey and black bird with a yellow head and yellow highlights along its wings sits in a tree with needle-like leaves." caption="A golden-crowned kinglet seen in Queen Elizabeth Park in Vancouver, B.C.." width="100" %}
