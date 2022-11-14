@@ -48,7 +48,9 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
             {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0) " width="100" %}
 </div>
 
-Here is a carousel of some other photos I have taken! A quick note: for some reason, I haven't quite gotten bo  
+Here is a carousel of some other photos I have taken!
+
+<div class="col-lg-8">
 
 <div id="carousel-photos" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -76,12 +78,13 @@ Here is a carousel of some other photos I have taken! A quick note: for some rea
                  </div>
           </div>
 </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <a class="carousel-control-prev" data-target="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+  <a class="carousel-control-next" data-target="#carouselExampleIndicators" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
+  </div>
