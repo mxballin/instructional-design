@@ -1,7 +1,7 @@
 ---
-title: Embed Practice
+title: Week 8
 layout: page
-permalink: /embeds.html
+permalink: /week8.html
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
@@ -9,15 +9,14 @@ permalink: /embeds.html
 <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="#">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Explore Themes: Communications</li>
+    <li class="breadcrumb-item active" aria-current="page">Week 8</li>
   </ol>
 </nav>
 
 # Embed Practice
 {% include feature/nav-menu.html sections="Research Instrument Design; Instructional Presentations; Extra Curriculars" %}
 
-
-<p style="text-indent: 25px;">When Japanese Canadians were forcibly displaced, they were also restricted in their ability to gain and distribute information. Access to radios and cameras in particular was severely limited, or often completely denied to forcibly uprooted Nikkei. Order In Council 1486 explicitly permitted the confiscation of short-wave radios and cameras by the RCMP, ostensibly because of concerns that Japanese Canadians would be using these sources of information for the benefit of Japan. It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.</p>
+<p">This page contains the required embedded content from the Week 8 assignment. </p>
   
  ## Research Instrument Design
  
