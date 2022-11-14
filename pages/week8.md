@@ -53,11 +53,6 @@ Here is a carousel of some other photos I have taken!
 <div class="col-lg-8">
 
 <div id="carousel-photos" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
 <div class="carousel-inner">
           <div class="carousel-item active">
                 <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall.">
