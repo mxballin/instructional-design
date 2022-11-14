@@ -38,7 +38,7 @@
         {%- capture image_alt -%}{% if include.alt %}{{ alts[forloop.index0] | escape }}{% else %}{{ figure.title | escape }}{% endif %}{%- endcapture -%}
         {%- capture image_src -%}{% if figure.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: figure.youtubeid | append: '/hqdefault.jpg' }}{% elsif figure.filename contains '/' %}{{ figure.filename }}{% else %}{{ '/objects/' | append: figure.filename | relative_url }}{% endif %}{% endcapture %}
     {% endif %}
-    <div class="col-md text-center">
+    <div class="col-md">
         <figure class="figure mx-3{% if include.width %} feature-w-{{ include.width }}{% endif %}">
             <a href="{{ image_link | default: image_src}}">
                 <img class="figure-img img-fluid rounded lazyload" alt="{{ image_alt | default: image_caption }}"  title="click to see item" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ image_src }}" >
