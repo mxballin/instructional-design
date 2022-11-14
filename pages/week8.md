@@ -81,11 +81,11 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
             <img class="d-block w-100" src="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_Photographs-3-13-test.jpg" alt="Third slide">
           </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselCommunications" role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
         </a>
-        <a class="carousel-control-next" href="#carouselCommunications" role="button" data-slide="next">
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
