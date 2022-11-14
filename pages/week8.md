@@ -18,9 +18,9 @@ permalink: /week8.html
 
 <p>This page contains the required embedded content from the Week 8 assignment. </p>
   
- ## Research Instrument Design
+## Research Instrument Design
  
- #### Project: Master's Thesis
+#### Project: Master's Thesis
  
 Under the supervision of my committee, I designed and used a variety of documents that facilitated my research. What follows is an example of one of these documents, which was approved for use in my research by the UBC Ethics Review Board in November of 2021.
 
