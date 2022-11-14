@@ -21,8 +21,6 @@ permalink: /week8.html
             
 ## Embed Practice
 {% include feature/nav-menu.html sections="Research Instrument Design; Instructional Presentations; Extra Curriculars" %}
-
-<p>This page contains the required embedded content from the Week 8 assignment. </p>
   
 #### Research Instrument Design
  
