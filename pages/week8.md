@@ -15,7 +15,7 @@ permalink: /week8.html
 
 # Week 8
 
-{% include feature/image.html objectid="research016" alt="A screenshot of a link contrast checker that shows that the link color, body text color, and background color pass WCAG A and WCAG AA contrast checks." caption="The website's color theme passes the WebAIM contrast checker tests." width="25" %}
+{% include feature/image.html objectid="research016" alt="A screenshot of a link contrast checker that shows that the link color, body text color, and background color pass WCAG A and WCAG AA contrast checks." caption="The website's color theme passes the WebAIM contrast checker tests." width="50" %}
             
 # Embed Practice
 {% include feature/nav-menu.html sections="Research Instrument Design; Instructional Presentations; Extra Curriculars" %}
