@@ -25,8 +25,12 @@ permalink: /embeds.html
 
 <div class="container">
   <div class="row">
+    <div class="col-md-6 my-auto">
       {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="A small orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall." caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s." width="100" %}
+    </div>
+    <div class="col-md-6 my-auto">
     {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A golden-crowned kinglet, a small grey and black bird with a yellow head and yellow highlights along its wings, sits in a tree with needle-like leaves." caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s." width="100" %}
+    </div>
   </div>
   </div>
 {% include feature/pdf.html objectid="research002" %}
