@@ -71,7 +71,7 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
           <div class="carousel-item active">
             <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall.">
             <div class="carousel-caption d-none d-md-block">
-    <p>My cat, Peaches, when she was first adopted by my family. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
+    <p style="background-color:#000000">My cat, Peaches, when she was first adopted by my family. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
             </div>
           </div>
           <div class="carousel-item">
