@@ -48,19 +48,8 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
             {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0) " width="100" %}
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 my-auto">
-      {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall." caption="My cat, Peaches, when she was first adopted by my family. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0)" width="100" %}
-    </div>
-    <div class="col-md-6 my-auto">
-    {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A small grey and black bird with a yellow head and yellow highlights along its wings sits in a tree with needle-like leaves." caption="A golden-crowned kinglet seen in Queen Elizabeth Park in Vancouver, B.C..<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)" width="100" %}
-    </div>
-  </div>
-  </div>
-  
- <div class="row">
-    <div class="col-lg-8">
+Here is a carousel of some other photos I have taken! A quick note: for some reason, I haven't quite gotten bo  
+
       <div id="carousel-photos" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -69,32 +58,30 @@ In addition to the documents that I create for work, I am an avid hobbyist photo
   </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall.">
+            <img class="d-block w-50" src="https://payload.cargocollective.com/1/10/326832/14008495/pets-2_2000_c.jpg" alt="An orange kitten with green eyes sits on a carpeted surface in front of a yellow-orange wall.">
             <div class="carousel-caption d-none d-md-block">
     <p style="background-color:#000000">My cat, Peaches, when she was first adopted by my family. <br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A small grey and black bird with a yellow head and yellow highlights along its wings sits in a tree with needle-like leaves.">
+            <img class="d-block w-50" src="https://payload.cargocollective.com/1/10/326832/14209152/goldenkinglet-1-of-1_2000_c.jpg" alt="A small grey and black bird with a yellow head and yellow highlights along its wings sits in a tree with needle-like leaves.">
             <div class="carousel-caption d-none d-md-block">
-    <p>A golden-crowned kinglet seen in Queen Elizabeth Park in Vancouver, B.C..<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
+    <p style="background-color:#000000">A golden-crowned kinglet seen in Queen Elizabeth Park in Vancouver, B.C..<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://payload.cargocollective.com/1/10/326832/9092884/ginger-2_2000_c.jpg" alt="A pile of cookies stamped with floral designs on a white, square plate.">
+            <img class="d-block w-50" src="https://payload.cargocollective.com/1/10/326832/9092884/ginger-2_2000_c.jpg" alt="A pile of cookies stamped with floral designs on a white, square plate.">
             <div class="carousel-caption d-none d-md-block">
-    <p>One of my favourite cookies to bake: Yotam Ottolenghi and Helen Goh's Soft Gingerbread Tiles with Run Butter Glaze<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
+    <p style="background-color:#000000">One of my favourite cookies to bake: Yotam Ottolenghi and Helen Goh's Soft Gingerbread Tiles with Run Butter Glaze<br> (Photograph by Mya Ballin, licensed under CC BY 4.0)</p>
             </div>
           </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
+       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
       </div>
-    </div>
-</div>
