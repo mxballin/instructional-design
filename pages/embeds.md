@@ -23,6 +23,8 @@ permalink: /embeds.html
             {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s." width="100" %}
 </div>
 
+{% include feature/pdf.html objectid="research002" %}
+
 <p style="text-indent: 25px;"> Having the "permission" to do something, but not having the access or means is a recurrent theme throughout the letters. Just as Sumi's family wanted to take more pictures if they could, many of the teens would have preferred to stay in school rather than be in the fields, and many families would have relocated to better living situations had their requests not been denied by the B.C.S.C<sup>1</sup>. Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.</p>
 
 
