@@ -13,7 +13,7 @@ permalink: /week6.html
 </nav>
 
 <div class="alert alert-info" role="alert">
-  Curious about what this page looks like when I incorporated more accessible design principles? Make sure to check out <a href="https://instructional-design.mxballin.com/week7.html">my Week 7 page</a>!
+  Curious about what this page looks like when I incorporated more accessible design principles? Make sure to check out <a href="https://instructional-design.mxballin.com/week7.html" class="alert-link">my Week 7 page</a>!
 </div>
 
 ## Introduction
