@@ -1,26 +1,19 @@
-<button type="button" class="btn-secondary" style="font-color:#FFFFFF; background-color: #427C85;" data-toggle="modal" data-target="#homemodal">
-  More About This Site
+<button type="button" class="btn-secondary" data-toggle="modal" data-target="#homemodal">
+  Learn More
 </button>
 
 <div class="modal fade" id="homemodal" tabindex="-1" role="dialog" aria-labelledby="abouttheexhibit" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="abouttheexhibit">More about this Site</h5>
+        <h5 class="modal-title" id="abouttheexhibit">What would you like to learn more about?</h5>
         <button type="button" class="close btn-dark" style="background-color: #427C85" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-        <button type="button" style="background-color: #f7fcfd;" href="https://instructional-design.mxballin.com/about.html" role="button">
- Click Here to Learn More about this Project Site
-</button>
+      <div class="modal-body mx-auto">
         {% include feature/button.html text="Learn About Mya" link="https://instructional-design.mxballin.com/about.html" color="secondary" %}
          {% include feature/button.html text="Learn About OSU's ID Certificate" link="https://education.oregonstate.edu/instructional-design-graduate-certificate" color="secondary" %}
-        <button type="button" class="btn btn-outline-secondary" href="https://education.oregonstate.edu/instructional-design-graduate-certificate" role="button">
- Click Here to Learn More about OSU's Instructional Design Certificate
-</button>
-       Blah blah
       </div>
       <div class="modal-footer">
         <button type="button" class="btn-dark" style="background-color: #427C85" data-dismiss="modal">Close</button>
