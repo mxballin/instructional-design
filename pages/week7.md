@@ -59,5 +59,5 @@ but not extensive knowledge of how to incorporate them.
 5. Per the recommendations of <a href="https://mrwweb.com/no-justification-dont-use-right-center-and-full-justification-on-the-web/">Root-Wiley (2015)</a>, the justification of the 'About' page was changed from centre <br> justification in order to align with the rest of the site. This also helps maintain consistency and create a repetitive <br> form for the site.
 
 <div class="alert alert-info" role="alert">
-Curious about what this page looked like before Week 7 changes were made? Make sure to check out <a href="https://instructional-design.mxballin.com/week6.html">my Week 6 page</a>!
+Curious about what this page looked like before Week 7 changes were made? Make sure to check out <a href="https://instructional-design.mxballin.com/week6.html" class="alert-link">my Week 6 page</a>!
 </div>
