@@ -12,7 +12,9 @@ permalink: /week6.html
   </ol>
 </nav>
 
-{% include feature/alert.html text="Curious about what this page looks like when I incorporated more accessible design principles? Make sure to check out <a href="https://instructional-design.mxballin.com/week7.html">my Week 7 page</a>!" color="info" align="center"%}
+<div class="alert alert-info" role="alert">
+  Curious about what this page looks like when I incorporated more accessible design principles? Make sure to check out <a href="https://instructional-design.mxballin.com/week7.html">my Week 7 page</a>!
+</div>
 
 ## Introduction
 
