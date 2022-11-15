@@ -11,9 +11,13 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body mx-auto">
-        {% include feature/button.html text="Learn About Mya" link="https://instructional-design.mxballin.com/about.html" color="secondary" %} <br>
-         {% include feature/button.html text="Learn About OSU's ID Certificate <br> (This will take you to an external site!)" link="https://education.oregonstate.edu/instructional-design-graduate-certificate" color="secondary" %}
+      <div class="modal-body">
+        <div class="mx-auto">
+        {% include feature/button.html text="Learn About Mya" link="https://instructional-design.mxballin.com/about.html" color="secondary" %}
+        </div>
+        <div class="mx-auto">
+         {% include feature/button.html text="Learn About OSU's ID Certificate <br><small><b>(This will take you to an external site!)</b></small>" link="https://education.oregonstate.edu/instructional-design-graduate-certificate" color="secondary" %}
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn-dark" style="background-color: #427C85" data-dismiss="modal">Close</button>
