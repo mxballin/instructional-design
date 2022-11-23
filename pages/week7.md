@@ -12,7 +12,7 @@ permalink: /week7.html
   </ol>
 </nav>
 
-## Portfolio Goals
+## Portfolio Goals - Week 7
 
 ---
 {% include feature/nav-menu.html sections="Question 1;Question 2;Question 3;Question 4;Week 7 Changes" %}
