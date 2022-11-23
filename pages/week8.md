@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Week 8 - Instructional Projects
 layout: page
 permalink: /week8.html
 
