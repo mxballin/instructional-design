@@ -17,10 +17,11 @@ permalink: /teachingphilosophy.html
 # My Teaching Philosophy - Week 10
 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
-*Value Statement: A statement about the importance of having a personal philosophy of adult education 
-*Influential Theories & Theorists: The traditional, modern, and contemporary theory(ies) and theorists of adult learning you studied this term that you believe/anticipate (will) inform your own learning philosophy and practice.
-*Personal Analysis: A description and analysis of the concepts, principles, theories, and/or core beliefs about adult learning that motivate and/or resonate with you as both a learner and potential teacher.
-*Personal Application: An explanation for and assessment of how you plan to incorporate and apply these principles and beliefs into your career and life. Include specific strategies from the theories/theorists that you plan to implement to facilitate your own and others’ adult learning.
+
+- Value Statement: A statement about the importance of having a personal philosophy of adult education
+- Influential Theories & Theorists: The traditional, modern, and contemporary theory(ies) and theorists of adult learning you studied this term that you believe/anticipate (will) inform your own learning philosophy and practice.
+- Personal Analysis: A description and analysis of the concepts, principles, theories, and/or core beliefs about adult learning that motivate and/or resonate with you as both a learner and potential teacher.
+- Personal Application: An explanation for and assessment of how you plan to incorporate and apply these principles and beliefs into your career and life. Include specific strategies from the theories/theorists that you plan to implement to facilitate your own and others’ adult learning.
 
 While I hope that I answered these prompts and address my values as an instructor, I invite you to converse with me about my philosophy and any questions you have!
 
