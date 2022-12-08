@@ -14,6 +14,9 @@ permalink: /teachingphilosophy.html
 </nav>
 <div class="col-md-10 my-auto">
 <h1> My Teaching Philosophy - Week 10 </h1>
+  
+  {% include feature/image.html objectid="research018" %}
+  
 <p class="py-2" style="width=75ch;"> 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
 
