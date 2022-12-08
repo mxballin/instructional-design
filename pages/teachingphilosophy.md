@@ -17,7 +17,7 @@ permalink: /teachingphilosophy.html
   
 {% include feature/nav-menu.html sections="Introduction;Instructional Context;Value Statement;Influential Theories and Theorists;Personal Analysis;Personal Application" %}
   
-  <h4 style="color=#427C85;> Introduction </h4>
+  <h4 style="color=#427C85;"> Introduction </h4>
 <p class="py-2" style="width=75ch;"> 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
 
