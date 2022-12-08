@@ -15,7 +15,7 @@ permalink: /teachingphilosophy.html
 <div class="col-md-10 my-auto">
 <h1> My Teaching Philosophy - Week 10 </h1>
   
-  {% include feature/image.html objectid="research018" %}
+  {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/9687336/music-007_2000_c.jpg" alt="A double exposure photograph of an orchestral conductor at work." caption="I find the idea of a conductor, who works collaboratively with the orchestra to create music by directing the tempo and helping to shape the sound, a useful metaphor for thinking about instruction. (Photograph by Mya Ballin, licensed under CC BY 4.0)"%}
   
 <p class="py-2" style="width=75ch;"> 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
