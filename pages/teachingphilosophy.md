@@ -26,7 +26,7 @@ Part of the course AHE 553, Adult Learning & Development, involved the developme
 </ul>
 
 While I hope that I answered these prompts and address my values as an instructor, I invite you to converse with me about my philosophy and any questions you have!
-<p class="py-2" style="width=75ch;"> 
+  </p>
 
   <h4> Instructional Context </h4>
 <p class="py-2" style="width=75ch;"> 
