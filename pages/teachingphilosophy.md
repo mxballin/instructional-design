@@ -15,6 +15,8 @@ permalink: /teachingphilosophy.html
 <div class="col-md-10 my-auto">
 <h1> My Teaching Philosophy - Week 10 </h1>
   
+{% include feature/nav-menu.html sections="Introduction;Instructional Context;Value Statement;Influential Theories and Theorists;Personal Analysis;Personal Application" %}
+  
   {% include feature/image.html objectid="https://payload.cargocollective.com/1/10/326832/9687336/music-007_2000_c.jpg" alt="A double exposure photograph of an orchestral conductor at work." caption="I find the idea of a conductor, who works collaboratively with the orchestra to create music by directing the tempo and helping to shape the sound, a useful metaphor for thinking about instruction. (Photograph by Mya Ballin, licensed under CC BY 4.0)"%}
   
   <h4> Introduction </h4>
