@@ -14,7 +14,7 @@ permalink: /teachingphilosophy.html
 </nav>
 <div>
 <h1> My Teaching Philosophy - Week 10 </h1>
-
+<p class="py-2" style="width=75ch;"> 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
 
 <ul>
@@ -26,13 +26,12 @@ Part of the course AHE 553, Adult Learning & Development, involved the developme
 </ul>
 
 While I hope that I answered these prompts and address my values as an instructor, I invite you to converse with me about my philosophy and any questions you have!
-
-<div class="col-md-8 my-auto pt-4">
+<p class="py-2" style="width=75ch;"> 
 
   <h4> Instructional Context </h4>
 <p class="py-2" style="width=75ch;"> 
 In the library world, we are taught early on that the most frequent instructional interaction that we will have with someone is a one-shot session. Be it 15 minutes or an hour, it’s likely that we will only have a single opportunity to interact with someone, respond to their needs, equip them with the skills they need to move forward with their research query, and impress upon them the value of coming back to the library. It’s an exciting challenge, but it also makes it difficult not to fall into the trap of relying on traditional models of teacher-centred instruction that might not make the learning interaction as effective and impactful as it could be.
-  </p>
+ </p>
 
   <h4> Value Statement </h4>
 <p class="py-2" style="width=75ch;"> 
