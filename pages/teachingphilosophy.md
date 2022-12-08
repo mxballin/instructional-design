@@ -84,3 +84,6 @@ Lastly, in addition to creating theoretically diverse and critical spaces, I als
     I look forward to challenging myself to learn more about how to encourage others to think critically; to communicate and discover how they best learn and to advocate for instruction that incorporates strategies that are responsive to their needs; and ultimately to have instructional interactions that make them feel confident in their own ability to learn, to successfully apply acquired skills, and challenge the elements of what has been deemed ‘required’ for success that don’t align with their experiences.
   </p>
  </div>
+  <div class="alert alert-info" role="alert" title="Alert box">
+             Looking for more context on the purpose of this portfolio? <br> Check out my answers to some introductory questions on my <a href="https://instructional-design.mxballin.com/week7.html" class="alert-link">portfolio goals page</a>
+            </div>
