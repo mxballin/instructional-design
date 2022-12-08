@@ -12,7 +12,7 @@ permalink: /teachingphilosophy.html
     <li class="breadcrumb-item active" aria-current="page">Teaching Philosophy</li>
   </ol>
 </nav>
-<div>
+<div class="col-md-8 my-auto">
 <h1> My Teaching Philosophy - Week 10 </h1>
 <p class="py-2" style="width=75ch;"> 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
