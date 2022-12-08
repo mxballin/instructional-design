@@ -12,7 +12,7 @@ permalink: /teachingphilosophy.html
     <li class="breadcrumb-item active" aria-current="page">Teaching Philosophy</li>
   </ol>
 </nav>
-<div class="col-md-8 my-auto">
+<div class="col-md-10 my-auto">
 <h1> My Teaching Philosophy - Week 10 </h1>
 <p class="py-2" style="width=75ch;"> 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
@@ -65,4 +65,4 @@ Approaching even the smallest unit of instruction with the goal of employing pos
   <p class="py-2" style="width=75ch;"> 
 Lastly, in addition to creating theoretically diverse and critical spaces, I also hope to challenge myself to expand my conception of how instructional activities can be designed and delivered. Understanding how learning can occur physically and mentally and how different individuals can benefit from these different ways of learning in different ways, I think that an area that I hope to become more knowledgeable in moving forward is different lecturing styles and strategies that encourage engagement and that conceptualize engagement in a diverse manner. I look forward to challenging myself to learn more about how to encourage others to think critically; to communicate and discover how they best learn and to advocate for instruction that incorporates strategies that are responsive to their needs; and ultimately to have instructional interactions that make them feel confident in their own ability to learn, to successfully apply acquired skills, and challenge the elements of what has been deemed ‘required’ for success that don’t align with their experiences.
   </p>
-  </div>
+ </div>
