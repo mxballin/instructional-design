@@ -13,6 +13,7 @@ permalink: /teachingphilosophy.html
   </ol>
 </nav>
 
+
 # My Teaching Philosophy - Week 10
 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
@@ -33,13 +34,18 @@ Having a personal philosophy of adult education that affirms one’s goals as a 
 
 #### Influential Theories and Theorists
 
+<p class="py-2" style="width=75ch;"> 
 I find that behaviorist instructional practices have their place in adult education and particularly in library education because of their focus on creating a structured learning environment. Skinner (1971) is noted for believing that “arranging the environment to bring about desired behavior” can bring about effective educational results (as cited in Merriam & Bierema, 2013, p. 26), and I do think that creating a clear outline of the expectations, potential outcomes, and goals for the course represent an important way in which a teacher can help a student to understand what their understanding of the educational interaction is and can also invite feedback regarding the interaction with regards to whether these goals were achieved.
-
+</p>
+<p class="py-2" style="width=75ch;"> 
 However, behaviorism tends to reject the value of discussions of internal processes (Merriam & Bierema, 2013, p. 26), something that I think is incredibly important for library instruction. A cognitivist approach, particularly one rooted in Piaget’s theory of cognitive development and the concept of schema, is something that I believe is central to the success of an instructional interaction in the library. Yilmaz (2011) identifies an application of schema theory to instruction as: “Mak[ing] instructional material meaningful by identifying the learner's mental model and providing conceptual models invented by teachers, designers, scientists, or engineers to help make some target system understandable” (p. 206). This strategy is central to the typical reference interaction, in which a librarian often works with a student to unpick the rather tangled and rigid structures that are the information systems that we are expected to utilize and understand the process of how to interact with them by relating them to something that is perhaps more familiar. If this strategy of meaning-making is employed with a critical slant that emphasizes creating opportunities for interaction, interrogation, and questioning, it offers the opportunity for an instructor to frame learning to navigate these searching processes as unnatural and worthy of critique, demonstrating that they are not always intuitive and perhaps should not be viewed as what we should accept as normative. I think that this is critical to how librarians should approach instruction given the hegemonic nature of knowledge organization practices.
+</p>
 
 #### Personal Analysis
 
+<p class="py-2" style="width=75ch;"> 
 In many information retrieval situations, we are expected to be able to understand how to problem solve using existing tools and knowledge structures, but at the same time we are confronted with the fact that these structures reproduce ways of knowing that marginalize Indigenous, racialized, crip, queer, and feminine/feminized experiences (and the intersections of any of these categories and beyond). Creating spaces that allow for the discussion of why what we are teaching may be problematic, that open opportunity for critique and the embrace of alternative approaches, and that elevate and center previously marginalized perspectives so that they can be included and incorporated respectfully into these traditional frameworks if they wish to be are all things that I hope to prioritize in my work. This is difficult in the aforementioned 15 minute reference interaction, and yet I think that there are opportunities for opening up the possibility of future conversation and reflection even in these short instructional moments.
+</p>
 
 #### Personal Application
 
