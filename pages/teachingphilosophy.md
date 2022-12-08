@@ -12,8 +12,8 @@ permalink: /teachingphilosophy.html
     <li class="breadcrumb-item active" aria-current="page">Teaching Philosophy</li>
   </ol>
 </nav>
-  
-# My Teaching Philosophy - Week 10
+<div>
+<h1> My Teaching Philosophy - Week 10 </h1>
 
 Part of the course AHE 553, Adult Learning & Development, involved the development of a teaching philosophy statement. As part of the assignment, we were asked to address the following prompts:
 
@@ -30,13 +30,14 @@ While I hope that I answered these prompts and address my values as an instructo
 <div class="col-md-8 my-auto pt-4">
 
   <h4> Instructional Context </h4>
-
+<p class="py-2" style="width=75ch;"> 
 In the library world, we are taught early on that the most frequent instructional interaction that we will have with someone is a one-shot session. Be it 15 minutes or an hour, it’s likely that we will only have a single opportunity to interact with someone, respond to their needs, equip them with the skills they need to move forward with their research query, and impress upon them the value of coming back to the library. It’s an exciting challenge, but it also makes it difficult not to fall into the trap of relying on traditional models of teacher-centred instruction that might not make the learning interaction as effective and impactful as it could be.
+  </p>
 
   <h4> Value Statement </h4>
-
+<p class="py-2" style="width=75ch;"> 
 Having a personal philosophy of adult education that affirms one’s goals as a teacher and outlines the ways in which success in achieving these goals can be evaluated is important because it establishes a form of accountability. Not only does it allow for a level of critical reflection, it also can create opportunities for conversations about instructional styles and invite input from others—instructors and students alike. I believe that having a personal philosophy demonstrates the care that an instructor is taking as part of their work and their intent to make their instruction a multi-way conversation rather than an unchangeable method. A personal teaching philosophy is no less important in the context of one shot lessons than in the context of a weeks-long course, even if the methods of instruction and evaluation might vary in recognition of the different levels of connections, interaction, and relationship-building that is possible.
-
+  </p>
   <h4> Influential Theories and Theorists </h4>
 
 <p class="py-2" style="width=75ch;"> 
@@ -53,8 +54,10 @@ In many information retrieval situations, we are expected to be able to understa
 </p>
 
   <h4> Personal Application </h4>
-
+<p class="py-2" style="width=75ch;"> 
 Approaching even the smallest unit of instruction with the goal of employing poststructural feminist peda/andragogy is a goal of mine. Tisdell characterizes this approach as incorporating four key themes: “how knowledge is constructed, the development of voice, the authority of the teacher and students, and dealing with differences” (as cited in Merriam & Baumgartner, 2020, p. 312). This to me can look like centring the agency, identity and experiences of the student(s), allowing them to help set the goals that reflect what they come to the table hoping to achieve for the session, and attempting to bridge levels of understanding by avoiding the use of jargon while at the same time responding to what the student does know rather than treating them as ignorant. When possible, I also hope to emphasize opportunities for building community and for students to learn from one another (while also not placing undue burden on them to assume the role of ‘teacher’).
-
+  </p>
+  <p class="py-2" style="width=75ch;"> 
 Lastly, in addition to creating theoretically diverse and critical spaces, I also hope to challenge myself to expand my conception of how instructional activities can be designed and delivered. Understanding how learning can occur physically and mentally and how different individuals can benefit from these different ways of learning in different ways, I think that an area that I hope to become more knowledgeable in moving forward is different lecturing styles and strategies that encourage engagement and that conceptualize engagement in a diverse manner. I look forward to challenging myself to learn more about how to encourage others to think critically; to communicate and discover how they best learn and to advocate for instruction that incorporates strategies that are responsive to their needs; and ultimately to have instructional interactions that make them feel confident in their own ability to learn, to successfully apply acquired skills, and challenge the elements of what has been deemed ‘required’ for success that don’t align with their experiences.
-
+  </p>
+  </div>
